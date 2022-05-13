@@ -1,0 +1,12 @@
+﻿  player.cpp
+C:\Users\st\Source\Repos\Project13\Project13\player.cpp(23,49): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\st\Source\Repos\Project13\Project13\player.cpp(23,36): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Project13.vcxproj -> C:\Users\st\Source\Repos\Project13\Debug\Project13.exe
